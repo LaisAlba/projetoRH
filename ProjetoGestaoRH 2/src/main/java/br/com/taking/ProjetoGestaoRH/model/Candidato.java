@@ -1,11 +1,11 @@
 package br.com.taking.ProjetoGestaoRH.model;
 
+import java.util.Date;
 import java.util.List;
 import java.util.Set;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import java.util.Date;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
